@@ -8,3 +8,4 @@
 Briansire/Briansire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Safehood> Safehood is a social media application where a user is able to connect with their loved ones and physically trace there whereabouts. A user is able to interact with their ten other users within their phones' geographical location and add them as new "hoodies".
